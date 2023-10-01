@@ -1,3 +1,10 @@
+//Creating a deleteTask function so that it is able to:
+//i. It receives a string as a parameter called task.
+//ii. It removes that string from the array.
+//iii. It prints in console a message indicating the deletion.
+//iv. It returns the number of elements in the array after the deletion.
+
+
 let tasksArray = [];
 
 let addTask = (task) => {

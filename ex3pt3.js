@@ -1,3 +1,7 @@
+//Creating a listAllTasks function so that it:
+//i. It iterates over all the tasks in the array.
+//ii. It prints each array item in the console.
+
 let tasksArray = [];
 
 let addTask = (task) => {

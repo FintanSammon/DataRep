@@ -1,3 +1,4 @@
+// Creating an array of string
 const tasksArray = [];
 
 const addTasks = (myValue) => {
